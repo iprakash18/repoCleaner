@@ -8,8 +8,8 @@
 # Installation:
 
 1. Clone the repository
-git clone https://github.com/your-username/repoCleaner.git
-cd repoCleaner
+	git clone https://github.com/your-username/repoCleaner.git
+	cd repoCleaner
 
 # GitHub Token Setup:
 
