@@ -19,7 +19,12 @@ Generate a Personal Access Token (PAT) from GitHub with the following scopes:
 	repo (Full control of private repositories)
 	delete:repo (Required to delete branches)
 
-2. Export the token as an environment variable:
+Export the token as an environment variable:
+	
+	export GITHUB_TOKEN=your_token_here	# For Linux
+	set GITHUB_TOKEN=your_token # For Windows
+
+	
 
 # Usage:
 
