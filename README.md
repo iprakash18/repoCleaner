@@ -8,7 +8,10 @@
 # Installation:
 
 1. Clone the repository
+<<<<<<< HEAD
 	
+=======
+>>>>>>> 2483c099ba54c945148a38125576d4fd2fdbc0db
 	git clone https://github.com/your-username/repoCleaner.git
 	cd repoCleaner
 
