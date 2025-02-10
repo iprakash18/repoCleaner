@@ -8,8 +8,9 @@
 # Installation:
 
 1. Clone the repository
-git clone https://github.com/your-username/repoCleaner.git
-cd repoCleaner
+	
+	git clone https://github.com/your-username/repoCleaner.git
+	cd repoCleaner
 
 # GitHub Token Setup:
 
@@ -23,10 +24,12 @@ cd repoCleaner
 # Usage:
 
 1. Create a file masterRepoList.txt and list all repositories (one per line) in the format:
+	
 	username/repository-name
 	organization/repository-name
 
 2. Run the script:
+	
 	python repoCleaner.py
 
 3. Follow the interactive prompts to delete stale branches.
