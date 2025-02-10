@@ -106,9 +106,9 @@ def delete_branches(repo, branches):
         response = requests.delete(url, headers=HEADERS)
 
         if response.status_code == 204:
-            print(f"✅ Deleted branch: {branch}")
+            print(f" Deleted branch: {branch}")
         else:
-            print(f"❌ Failed to delete {branch}: {response.status_code}")
+            print(f" Failed to delete {branch}: {response.status_code}")
 
 
 def generate_summary(repo, total_branches, stale_branches, deleted_branches):
@@ -125,7 +125,7 @@ def generate_summary(repo, total_branches, stale_branches, deleted_branches):
         json.dump(summary, f, indent=4)
         f.write("\n")
 
-    print(f"📄 Summary saved for {repo} in cleanup_summary.json")
+    print(f" Summary saved for {repo} in cleanup_summary.json")
 
 
 def save_progress(repo, stale_branches, deleted_branches):
@@ -141,7 +141,7 @@ def save_progress(repo, stale_branches, deleted_branches):
         json.dump(progress, f, indent=4)
         f.write("\n")
 
-    print(f"🔄 Progress saved for {repo} in repoCleaner_progress.json")
+    print(f" Progress saved for {repo} in repoCleaner_progress.json")
 
 
 def main():
@@ -153,11 +153,11 @@ def main():
         return
 
     for repo in repositories:
-        print(f"\n📌 Processing: {repo}")
+        print(f"\n Processing: {repo}")
 
         total_branches, stale_branches = identify_stale_branches(repo)
-        print(f"🔍 Total branches in {repo}: {len(total_branches)}")
-        print(f"🕒 Stale branches (>1 year old): {len(stale_branches)}")
+        print(f" Total branches in {repo}: {len(total_branches)}")
+        print(f" Stale branches (>1 year old): {len(stale_branches)}")
 
         if not stale_branches:
             print(f"No stale branches found in {repo}. Skipping...\n")
