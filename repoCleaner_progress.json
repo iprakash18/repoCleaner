@@ -1,0 +1,304 @@
+{
+    "repo": "github/docs",
+    "stale_branches": [
+        {
+            "branch": "cmwilson21-patch-1",
+            "last_commit": "2023-07-06"
+        },
+        {
+            "branch": "dependabot/docker/node-19.1.0-alpine",
+            "last_commit": "2022-11-17"
+        },
+        {
+            "branch": "dependabot/docker/node-19.7-alpine",
+            "last_commit": "2023-02-23"
+        },
+        {
+            "branch": "dependabot/docker/node-19.9-alpine",
+            "last_commit": "2023-04-13"
+        },
+        {
+            "branch": "dependabot/docker/node-20.4-alpine",
+            "last_commit": "2023-07-13"
+        },
+        {
+            "branch": "dependabot/docker/node-20.5-alpine",
+            "last_commit": "2023-07-26"
+        },
+        {
+            "branch": "dependabot/docker/node-20.8-alpine",
+            "last_commit": "2023-10-19"
+        },
+        {
+            "branch": "dependabot/github_actions/actions/cache-4.0.0",
+            "last_commit": "2024-01-17"
+        },
+        {
+            "branch": "dependabot/github_actions/actions/github-script-98814c53be79b1d30f795b907e553d8679345975",
+            "last_commit": "2023-02-01"
+        },
+        {
+            "branch": "dependabot/github_actions/juliangruber/approve-pull-request-action-2",
+            "last_commit": "2022-10-21"
+        },
+        {
+            "branch": "dependabot/npm_and_yarn/change-case-5.0.1",
+            "last_commit": "2023-10-03"
+        },
+        {
+            "branch": "dependabot/npm_and_yarn/follow-redirects-1.15.4",
+            "last_commit": "2024-01-09"
+        },
+        {
+            "branch": "dependabot/npm_and_yarn/jest-environment-puppeteer-8.0.5",
+            "last_commit": "2023-03-14"
+        },
+        {
+            "branch": "dependabot/npm_and_yarn/jest-environment-puppeteer-8.0.6",
+            "last_commit": "2023-03-28"
+        },
+        {
+            "branch": "dependabot/npm_and_yarn/lint-staged-15.0.1",
+            "last_commit": "2023-10-17"
+        },
+        {
+            "branch": "dependabot/npm_and_yarn/liquidjs-10.4.0",
+            "last_commit": "2023-01-03"
+        },
+        {
+            "branch": "dependabot/npm_and_yarn/liquidjs-10.6.0",
+            "last_commit": "2023-02-28"
+        },
+        {
+            "branch": "dependabot/npm_and_yarn/liquidjs-10.6.1",
+            "last_commit": "2023-03-07"
+        },
+        {
+            "branch": "dependabot/npm_and_yarn/liquidjs-10.6.2",
+            "last_commit": "2023-03-21"
+        }
+    ],
+    "deleted_branches": [
+        "dependabot/docker/node-19.1.0-alpine"
+    ]
+}
+{
+    "repo": "github/gh-ost",
+    "stale_branches": [
+        {
+            "branch": "abort-missing-backend-tables",
+            "last_commit": "2020-02-04"
+        },
+        {
+            "branch": "adaptive-eta",
+            "last_commit": "2016-10-21"
+        },
+        {
+            "branch": "add-dry-run-env",
+            "last_commit": "2018-10-02"
+        },
+        {
+            "branch": "add-tls-support",
+            "last_commit": "2019-02-04"
+        },
+        {
+            "branch": "arthur/fix-incompatibility",
+            "last_commit": "2022-01-26"
+        },
+        {
+            "branch": "cenkore_iss909",
+            "last_commit": "2021-03-08"
+        },
+        {
+            "branch": "changelog-state",
+            "last_commit": "2019-10-06"
+        },
+        {
+            "branch": "const_custom_type",
+            "last_commit": "2018-05-03"
+        },
+        {
+            "branch": "dev_copyrow_hangs",
+            "last_commit": "2018-09-17"
+        },
+        {
+            "branch": "dev-get-started",
+            "last_commit": "2017-05-02"
+        },
+        {
+            "branch": "devel-docs-start",
+            "last_commit": "2017-05-01"
+        },
+        {
+            "branch": "docker-stretch",
+            "last_commit": "2023-10-10"
+        },
+        {
+            "branch": "enum-to-varchar",
+            "last_commit": "2021-05-31"
+        },
+        {
+            "branch": "eta-ewma",
+            "last_commit": "2017-03-19"
+        },
+        {
+            "branch": "exponential-backoff",
+            "last_commit": "2018-03-25"
+        },
+        {
+            "branch": "fClose-Fix",
+            "last_commit": "2018-05-08"
+        },
+        {
+            "branch": "gbk_encoding",
+            "last_commit": "2018-03-08"
+        },
+        {
+            "branch": "gh-ost/fix-inspector-column-types",
+            "last_commit": "2018-12-16"
+        },
+        {
+            "branch": "go-mod",
+            "last_commit": "2020-08-13"
+        },
+        {
+            "branch": "go-mysql-updates-201709",
+            "last_commit": "2017-10-24"
+        },
+        {
+            "branch": "guineveresaenger-socket-file-doc",
+            "last_commit": "2021-03-12"
+        },
+        {
+            "branch": "hidden-password-cmdline",
+            "last_commit": "2021-06-21"
+        }
+    ],
+    "deleted_branches": [
+        "adaptive-eta"
+    ]
+}
+{
+    "repo": "github/dmca",
+    "stale_branches": [
+        {
+            "branch": "brandoncaldwell-patch-1",
+            "last_commit": "2023-11-01"
+        },
+        {
+            "branch": "brandoncaldwell-patch-2",
+            "last_commit": "2024-02-06"
+        },
+        {
+            "branch": "dependabot/npm_and_yarn/dot-github/script/validate-filepaths/word-wrap-1.2.4",
+            "last_commit": "2023-07-19"
+        },
+        {
+            "branch": "kathodos/test",
+            "last_commit": "2020-11-03"
+        },
+        {
+            "branch": "stsup-patch-1",
+            "last_commit": "2024-01-03"
+        },
+        {
+            "branch": "update-1494343552",
+            "last_commit": "2017-05-09"
+        },
+        {
+            "branch": "update-1497640593",
+            "last_commit": "2017-06-16"
+        },
+        {
+            "branch": "update-1505920484",
+            "last_commit": "2017-09-20"
+        },
+        {
+            "branch": "update-1518709341",
+            "last_commit": "2018-02-15"
+        },
+        {
+            "branch": "update-1553286041",
+            "last_commit": "2019-03-22"
+        },
+        {
+            "branch": "update-1582812574",
+            "last_commit": "2020-02-27"
+        },
+        {
+            "branch": "update-1607986451",
+            "last_commit": "2020-12-14"
+        },
+        {
+            "branch": "update-1607986530",
+            "last_commit": "2020-12-14"
+        },
+        {
+            "branch": "update-1607986597",
+            "last_commit": "2020-12-14"
+        },
+        {
+            "branch": "update-1613086368",
+            "last_commit": "2021-02-11"
+        },
+        {
+            "branch": "update-1613086684",
+            "last_commit": "2021-02-11"
+        },
+        {
+            "branch": "update-1616536920",
+            "last_commit": "2021-03-23"
+        },
+        {
+            "branch": "update-1616790667",
+            "last_commit": "2021-03-26"
+        },
+        {
+            "branch": "update-1617141769",
+            "last_commit": "2021-03-30"
+        },
+        {
+            "branch": "update-1619462214",
+            "last_commit": "2021-04-26"
+        },
+        {
+            "branch": "update-1620770506",
+            "last_commit": "2021-05-11"
+        },
+        {
+            "branch": "update-1623174186",
+            "last_commit": "2021-06-08"
+        },
+        {
+            "branch": "update-1623176664",
+            "last_commit": "2021-06-08"
+        },
+        {
+            "branch": "update-1623178373",
+            "last_commit": "2021-06-08"
+        }
+    ],
+    "deleted_branches": [
+        "brandoncaldwell-patch-2"
+    ]
+}
+{
+    "repo": "github/DPG-guidance",
+    "stale_branches": [
+        {
+            "branch": "csmlo-patch-1",
+            "last_commit": "2023-07-18"
+        },
+        {
+            "branch": "juschadha-patch-1",
+            "last_commit": "2022-09-01"
+        },
+        {
+            "branch": "main",
+            "last_commit": "2023-07-31"
+        }
+    ],
+    "deleted_branches": [
+        "juschadha-patch-1"
+    ]
+}

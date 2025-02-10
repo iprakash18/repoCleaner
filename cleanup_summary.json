@@ -1,0 +1,36 @@
+{
+    "repository": "github/docs",
+    "total_branches": 30,
+    "stale_branches": 19,
+    "deleted_branches": [
+        "dependabot/docker/node-19.1.0-alpine"
+    ],
+    "recommend_repo_deletion": false
+}
+{
+    "repository": "github/gh-ost",
+    "total_branches": 30,
+    "stale_branches": 22,
+    "deleted_branches": [
+        "adaptive-eta"
+    ],
+    "recommend_repo_deletion": false
+}
+{
+    "repository": "github/dmca",
+    "total_branches": 25,
+    "stale_branches": 24,
+    "deleted_branches": [
+        "brandoncaldwell-patch-2"
+    ],
+    "recommend_repo_deletion": false
+}
+{
+    "repository": "github/DPG-guidance",
+    "total_branches": 3,
+    "stale_branches": 3,
+    "deleted_branches": [
+        "juschadha-patch-1"
+    ],
+    "recommend_repo_deletion": true
+}
